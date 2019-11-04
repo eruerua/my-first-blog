@@ -25,7 +25,7 @@ SECRET_KEY = 'xdg3ovq6*1++6x*&n%sh&_t6--&f4p-rzfa*ca+u8r)djy6@f5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['eruera.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
